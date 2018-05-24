@@ -42,6 +42,7 @@ def play(board)
   while count < 9 do
     if
 
+    end
     count++
   end
 end
